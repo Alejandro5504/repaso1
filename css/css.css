@@ -1,0 +1,36 @@
+html {
+
+background-color:bisque;
+
+
+}
+
+
+h1 {
+
+color: rgb(254,254,254);
+background-color: rgb(254,0,0);
+
+} 
+
+h2 { 
+
+color: rgb(0,0,254);
+background-color: rgb(251, 255, 0);
+text-decoration: underline;
+}
+
+
+
+p {
+
+    color: blueviolet;
+background-color: rgb(255, 255, 255);
+
+}
+
+.letras {
+
+color:rgb(220, 20, 60) 
+
+}
